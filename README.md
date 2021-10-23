@@ -4,7 +4,7 @@
 ## Install
 
 ```
-$ npm install node-js-date-formatter
+$ npm install node-js-time-formatter
 ```
 
 ## Usage
