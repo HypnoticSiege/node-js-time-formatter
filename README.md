@@ -20,7 +20,7 @@ let table = {
     }
 }
 
-format(body[`steam:test`].playTime)
+format(table[`steam:test`].playTime)
 ```  
 Returns:
 ```
