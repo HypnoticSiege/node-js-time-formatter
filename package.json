@@ -1,0 +1,14 @@
+{
+  "name": "node-date-formatter",
+  "version": "1.0.0",
+  "description": "A Time Formatter to format seconds into readable text.",
+  "license": "MIT",
+  "repository": "https://github.com/HypnoticSiege/node-formatter",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package",
+    "time",
+    "formatter"
+  ]
+}
