@@ -10,17 +10,16 @@ $ npm install node-js-time-formatter
 ## Usage
 
 ```js
-const format = require('node-js-date-formatter')
+const format = require('node-js-time-formatter')
 
 let table = {
-    "steam:test": {
-        "playTime": 60,
-        "JoinTime": 0,
-        "LeaveTime": 0
+    "HypnoticSiege": {
+        "discordID": "479456028967305247",
+        "playTime": 60
     }
 }
 
-format(table[`steam:test`].playTime)
+format(table["HypnoticSiege"].playTime)
 ```  
 Returns:
 ```
